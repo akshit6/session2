@@ -1,4 +1,4 @@
-
+print("Enter the unsorted array:")
 a = list(map(int,input().split()))
 len = len(a)
 
